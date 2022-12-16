@@ -2,19 +2,19 @@
 
 Group Members: 
 
-Jason Trehan (jtrehan)
+1. Jason Trehan (jtrehan)
 
-Fahim Sajjad ()
+2. Fahim Sajjad (fsajjad)
 
-Aneesh Muttavarapu ()
+3. Aneesh Muttavarapu (amutt)
 
-Qiwei Wang (Kiwi0421)
+4. Qiwei Wang (Kiwi0421)
 
-Dhvani ()
+5. Dhvani Patel (dpatel25)
 
-Shivasree Margam (smarg5)
+6. Shivasree Margam (smarg5)
 
-App Description: 
+App Description: Pizzahat is a website that allows users to place pizza delivery orders to their home. 
 
 API Links: https://rapidapi.com/kaushiksheel9/api/pizza-and-desserts/ 
 
